@@ -1,7 +1,7 @@
 # FullCycle Docker Challenge One
 
-URL: 
+docker push renanmoreirasan/fc_docker_challenge_one
 
 ## Imagem no DockerHub
 
-![DockerHub](img/DockerHub.png)
+![DockerHub](img/Docker.png)
